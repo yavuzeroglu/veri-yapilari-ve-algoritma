@@ -15,7 +15,7 @@
 ------
 
 ## 2. Soru
-[22,27,16,2,18,6] dizisinin Big-O notasyonu **O(6²) olacaktır.
+[22,27,16,2,18,6] dizisinin Big-O notasyonu **O(6²)** olacaktır.
 
 ----
 
